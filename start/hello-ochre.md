@@ -6,5 +6,7 @@ When developing with ochre, you will primarily work in the `game` folder. This i
 
 Inside the `game` folder, you will also find the skeleton code `Game-template.cpp` and `Game-template.h` that outline the essential parts of the `Game` class.
 
+## Implementing Your Code
+
 After successfuly completing the test, you can remove the current `Game.cpp` and `Game.h`, or move them somewhere else if you would like to refer to them later. Then rename `Game-template.cpp` to `Game.cpp` and `Game-template.h` to `Game.h`.
 
