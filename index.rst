@@ -34,6 +34,7 @@ Information for developers is available here as well:
 	:maxdepth: 2
 
 	start/installation
+	start/hello-ochre
 
 .. _API-docs:
 .. toctree::
@@ -60,7 +61,7 @@ Information for developers is available here as well:
 .. toctree::
 	:caption: About
 	:maxdepth: 2
-	
+
 	about/license
 
 
