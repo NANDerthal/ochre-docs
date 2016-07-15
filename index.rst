@@ -62,6 +62,8 @@ Information for developers is available here as well:
 	:maxdepth: 2
 
 	dev-docs/contributing
+	dev-docs/library-structure
+	dev-docs/writing-documentation
 
 
 .. _about-docs:
