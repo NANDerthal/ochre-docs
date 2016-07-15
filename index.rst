@@ -6,10 +6,62 @@
 Welcome to ochre's documentation!
 =================================
 
-Contents:
+ochre is a 2D game engine using OpenGL and SDL2, implemented in c++. It is being developed and maintained by NANDerthal Games.
 
+The documentation is organized into several sections:
+
+* :ref:`intro-docs`
+* :ref:`start-docs`
+* :ref:`API-docs`
+* :ref:`backend-docs`
+* :ref:`about-docs`
+
+Information for developers is available here as well:
+
+* :ref:`dev-docs`
+
+.. _intro-docs:
 .. toctree::
-   :maxdepth: 2
+	:caption: Introduction
+	:maxdepth: 2
+
+	self
+
+
+.. _start-docs:
+.. toctree::
+	:caption: Getting Started
+	:maxdepth: 2
+
+	start/installation
+
+.. _API-docs:
+.. toctree::
+	:caption: API
+	:maxdepth: 2
+
+	api/Engine
+
+.. _backend-docs:
+.. toctree::
+	:caption: Backend
+	:maxdepth: 2
+
+	backend/SpriteHelper
+
+.. _dev-docs:
+.. toctree::
+	:caption: Developer Documentation
+	:maxdepth: 2
+
+	dev-docs/contributing
+
+.. _about-docs:
+.. toctree::
+	:caption: About
+	:maxdepth: 2
+	
+	about/license
 
 
 
