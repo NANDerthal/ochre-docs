@@ -1,2 +1,6 @@
 # Swap files
 *.swp
+
+# build folder
+_build
+
