@@ -36,12 +36,17 @@ Information for developers is available here as well:
 	start/installation
 	start/hello-ochre
 
+
 .. _API-docs:
 .. toctree::
 	:caption: API
 	:maxdepth: 2
 
 	api/Engine
+	api/Window
+	api/Sprite
+	api/ShaderProgram
+
 
 .. _backend-docs:
 .. toctree::
@@ -50,12 +55,14 @@ Information for developers is available here as well:
 
 	backend/SpriteHelper
 
+
 .. _dev-docs:
 .. toctree::
 	:caption: Developer Documentation
 	:maxdepth: 2
 
 	dev-docs/contributing
+
 
 .. _about-docs:
 .. toctree::
